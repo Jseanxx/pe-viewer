@@ -1,6 +1,8 @@
 # pe-viewer
 
 Python으로 직접 만들어보는 미니 PE Viewer / Parser 프로젝트입니다.
+이름은 AnView입니다.
+
 
 ## 목표
 
