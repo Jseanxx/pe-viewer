@@ -44,6 +44,10 @@ PE Header 구조와 Import Table 동작 원리를 직접 따라가며 이해할 
 
 ## 실행
 
+## 추가
+다 뽑아봐도 좋다.
+현업 - 보고 싶은 부분만 보기도 한다.
+현업 - 오픈소스 DIE 사용 많이 한다.
 ```bash
 python anview.py
 ```
